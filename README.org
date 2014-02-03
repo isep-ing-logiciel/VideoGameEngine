@@ -1,0 +1,50 @@
+#+TITLE: VideoGame Engine Project
+
+* Goals
+
+* Rationale
+
+* State of the art
+
+** HTML5
+
+http://html5gameengine.com/
+
+*** PuzzleScript
+http://www.puzzlescript.net/
+** Standalone client
+
+*** Löve
+https://love2d.org/
+
+*** Unity
+http://unity3d.com/
+
+
+* References
+
+** Toolbox > Framework
+
+https://www.youtube.com/watch?v=ShEez0JkOFw&feature=youtube_gdata_player
+
+** ClojureScript
+
+http://vimeo.com/68334908
+
+** Reactive programming
+*** Om
+https://github.com/swannodette/om
+
+*** Hoplon
+http://pmbauer.github.io/2014/01/27/hoplon-binary-clock/
+
+** Asynchronous programming
+
+http://swannodette.github.io/2013/08/02/100000-processes/
+
+https://www.youtube.com/watch?v=AhxcGGeh5ho
+
+http://www.hakkalabs.co/articles/transcript-coreasync-clojure-library
+
+** Dataflow programming
+http://www.infoq.com/presentations/pedestal-clojure
