@@ -50,3 +50,13 @@ http://www.hakkalabs.co/articles/transcript-coreasync-clojure-library
 
 ** Dataflow programming
 http://www.infoq.com/presentations/pedestal-clojure
+** Component Entities System
+http://www.chris-granger.com/2012/12/11/anatomy-of-a-knockout/
+
+* ClojureScript games
+
+- http://cljsfiddle.net/fiddle/jonase.snake
+- http://chimeces.com/cnake/
+- http://ragnard.github.io/2013/10/01/clojurecup-pong-async.html
+- https://github.com/ibdknox/ChromaShift
+- http://lispgames.org/index.php/Clojurescript
